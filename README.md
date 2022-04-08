@@ -7,7 +7,7 @@ So there are not user accounts and follow function. You can challenge after you 
 ```
 Check out [LIVE Twitter clone DEMO](https://twitterclone-renford.herokuapp.com/) here!!
 
-Screenshot 
+
 ![Screenshot 2022-04-09 at 1 16 38 AM](https://user-images.githubusercontent.com/99205634/162516493-bd01df40-5198-4917-afc0-2b74569c0ddb.png)
 
 
